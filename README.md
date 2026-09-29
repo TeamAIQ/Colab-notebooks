@@ -6,6 +6,23 @@ Welcome to my collection of Google Colab and Kaggle notebooks for various AI too
 [![X](https://img.shields.io/badge/%20-AIQUEST-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AIQuestAcademy)
 [![Support My Work](https://img.shields.io/badge/Support_My_Work-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aiquest.site)
 
+> [!NOTE]
+> **Notebook Status & Maintenance (September 28, 2026)**
+> 
+> All notebooks across this repository have been reviewed, updated, and verified working as of **September 28, 2026**.
+> 
+> Because cloud platforms and dependencies evolve rapidly, issues can occasionally arise over time due to factors such as:
+> - Google Colab or Kaggle environment and system package updates
+> - Upstream changes, moves, or deprecations in model weights and repositories
+> - Gradio version updates or tunnel / proxy connectivity issues
+> 
+> **Encountered a broken notebook?**
+> If you run into any errors while running a notebook, please:
+> 1. **Open an Issue:** Submit an issue directly here on this GitHub repository.
+> 2. **YouTube Channel:** Drop a comment on any video on our [AIQUEST Academy YouTube Channel](https://www.youtube.com/@AIQuestAcademy).
+> 
+> *Please be sure to specify the **exact notebook name** and paste the **complete error message**. We will do our best to address and fix the issue as quickly as possible!*
+
 ## Notebooks
 
 | Notebook Name | Description | Link | Video Tutorial |
