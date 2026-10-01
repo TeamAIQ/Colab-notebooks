@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64">
+  <defs>
+    <linearGradient id="fb-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1877F2" />
+      <stop offset="100%" stop-color="#0D65D9" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="160" height="64" rx="12" fill="url(#fb-grad)" filter="url(#shadow)"/>
+  
+  <!-- Facebook Logo -->
+  <g transform="translate(18, 11)" fill="#FFFFFF">
+    <path d="M20 10c0-5.52-4.48-10-10-10S0 4.48 0 10c0 4.99 3.66 9.12 8.44 9.88v-6.99H5.9v-2.89h2.54V7.79c0-2.51 1.49-3.89 3.78-3.89 1.09 0 2.23.19 2.23.19v2.47h-1.26c-1.24 0-1.63.77-1.63 1.56v1.88h2.78l-.45 2.89h-2.33v6.99C16.34 19.12 20 14.99 20 10z"/>
+  </g>
+  
+  <text x="48" y="24.5" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-weight="700" font-size="13" fill="#FFFFFF" letter-spacing="1">FACEBOOK</text>
+  <text x="80" y="47" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-weight="800" font-size="11" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.5">VIDEO TUTORIAL</text>
+</svg>
