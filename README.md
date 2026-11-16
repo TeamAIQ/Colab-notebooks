@@ -15,7 +15,7 @@ Welcome to my collection of Google Colab and Kaggle notebooks for various AI too
 
 ## Notebooks
 
-| Notebook Name | Description | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Video&nbsp;Tutorial&nbsp;&nbsp; |
+| Notebook Name | Description | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Video&nbsp;Tutorial&nbsp;&nbsp; |
 | :--- | :--- | :--- | :--- |
 | **Viggle Remake - Recast or Edit Any Video (Kaggle)** | Swap people or edit video elements while preserving motion, camera trajectory, and soundtrack using Viggle Remake on MiniMax H3 20B INT8 tensor-parallel DiT. Optimized for Kaggle GPU T4 x2. | [<img src="images/btn-kaggle.svg" width="177" height="56" alt="Open in Kaggle"/>](https://www.kaggle.com/code/unlockbulk/viggle-remake-recast-or-edit-any-video) | [<img src="images/btn-youtube-soon.svg" width="148" height="40" alt="Coming Soon"/>](https://www.youtube.com/@AIQuestAcademy) |
 | **LTX-2.5 22B Distilled - Lip-Sync Avatar (Kaggle)** | Lip-synced talking & singing avatar video generation from reference image + speech or song audio using LTX-2.5 22B Distilled (INT8 tensor-parallel DiT). Optimized for Kaggle GPU T4 x2. | [<img src="images/btn-kaggle.svg" width="177" height="56" alt="Open in Kaggle"/>](https://www.kaggle.com/code/unlockbulk/ltx-2-5-22b-distilled-lip-sync-avatar-audio) | [<img src="images/btn-youtube.svg" width="148" height="40" alt="Video Tutorial"/>](https://youtu.be/JlgTXmgxXg0) |
